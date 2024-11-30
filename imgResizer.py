@@ -58,7 +58,7 @@ takes an integer value
 defaults to original height of the image if not specified
 e.g resize_bulk_images(width=320)
 Priority level: 1
-
+ 
 3.
 maintainAspectRatio
 takes a Boolean value either True or False
