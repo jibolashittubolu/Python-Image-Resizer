@@ -9,7 +9,7 @@ install PIL from pip or the below pip command,  globally or preferably create a 
 
 pip install PIL
 
-
+ 
 INITIAL LOAD:
 __________
 Run the script.
