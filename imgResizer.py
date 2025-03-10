@@ -21,8 +21,6 @@ Place the images you want to resize into the IMG_RESIZE_input_folder(put all inp
 Then rerun the script.
 Your output files can be found in the IMG_RESIZE_output_folder(put all output files here) folder.
 
- 
-
 USAGE
 ---------------------------
 This script allows users to resize multiple images in large batches.
