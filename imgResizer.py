@@ -5,7 +5,6 @@ PREREQUISITES:
 _______
 This program includes PIL(pillow) as a dependency
 install PIL from pip or the below pip command,  globally or preferably create a Python virtual environment before running pip install PIL
-
 pip install PIL
 INITIAL LOAD:
 __________
