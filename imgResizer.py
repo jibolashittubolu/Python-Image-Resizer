@@ -4,6 +4,7 @@ YOU CAN ALSO SEE THIS SCRIPT HOSTED AT
 [https://github.com/jibolashittubolu/cil_basic_js](https://github.com/jibolashittubolu/cil_python_resizer
 PREREQUISITES: 
 _______
+
 This program includes PIL(pillow) as a dependency
 install PIL from pip or the below pip command,  globally or preferably create a Python virtual environment before running pip install PIL
 pip install PIL
