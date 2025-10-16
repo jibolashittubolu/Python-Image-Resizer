@@ -9,6 +9,7 @@ install PIL from pip or the below pip command,  globally or preferably create a 
 pip install PIL
 INITIAL LOAD:
 __________
+
 Run the script.
 On running the script the very first time, the script will autogenerate an src folder if it does not already exist.
 Furthermore the script will also automatically create 2 subfolders inside the generated src subfolder folder from above.
