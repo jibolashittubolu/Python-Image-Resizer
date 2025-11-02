@@ -1,5 +1,4 @@
 """
-
 YOU CAN ALSO SEE THIS SCRIPT HOSTED AT
 [https://github.com/jibolashittubolu/cil_basic_js](https://github.com/jibolashittubolu/cil_python_resizer
 PREREQUISITES: 
