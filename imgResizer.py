@@ -14,6 +14,7 @@ Run the script.
 On running the script the very first time, the script will autogenerate an src folder if it does not already exist.
 Furthermore the script will also automatically create 2 subfolders inside the generated src subfolder folder from above.
 
+
 src -->
 	-->IMG_RESIZE_input_folder(put all input files here)
 	-->IMG_RESIZE_output_folder(put all output files here)
